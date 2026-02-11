@@ -1,0 +1,23 @@
+
+.tlt-1{
+	margin: 100px 0;
+
+}
+.mg-l1{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.crsl{
+	margin:50px 0 ;
+}
+.md-container {
+	margin-bottom: 30px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+.cus-ban{
+	background-image: url(./img/ocean.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
